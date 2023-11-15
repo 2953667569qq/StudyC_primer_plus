@@ -1,0 +1,3 @@
+﻿  main.c
+D:\CLion Project\c-primer-plus\3.5-年龄换成秒\main.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  3.5-年龄换成秒.vcxproj -> D:\CLion Project\c-primer-plus\3.5-年龄换成秒\x64\Debug\3.5-年龄换成秒.exe

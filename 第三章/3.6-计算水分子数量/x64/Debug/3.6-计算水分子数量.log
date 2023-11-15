@@ -1,0 +1,4 @@
+﻿  main.c
+D:\CLion Project\c-primer-plus\3.6-计算水分子数量\main.c(7,9): warning C4129: “(”: 不可识别的字符转义序列
+D:\CLion Project\c-primer-plus\3.6-计算水分子数量\main.c(7,9): warning C4129: “)”: 不可识别的字符转义序列
+  3.6-计算水分子数量.vcxproj -> D:\CLion Project\c-primer-plus\3.6-计算水分子数量\x64\Debug\3.6-计算水分子数量.exe
