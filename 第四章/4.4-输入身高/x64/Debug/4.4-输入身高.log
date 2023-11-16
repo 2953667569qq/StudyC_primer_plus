@@ -1,0 +1,3 @@
+﻿  main.c
+D:\CLion Project\c-primer-plus\4.4-输入身高\main.c(8,9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  4.4-输入身高.vcxproj -> D:\CLion Project\c-primer-plus\4.4-输入身高\x64\Debug\4.4-输入身高.exe

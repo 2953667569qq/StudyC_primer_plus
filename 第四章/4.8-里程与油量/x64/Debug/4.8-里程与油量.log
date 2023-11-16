@@ -1,0 +1,4 @@
+﻿  main.c
+D:\CLion Project\c-primer-plus\4.8-里程与油量\main.c(10,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CLion Project\c-primer-plus\4.8-里程与油量\main.c(11,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  4.8-里程与油量.vcxproj -> D:\CLion Project\c-primer-plus\4.8-里程与油量\x64\Debug\4.8-里程与油量.exe
