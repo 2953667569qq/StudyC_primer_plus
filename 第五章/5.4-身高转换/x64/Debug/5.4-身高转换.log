@@ -1,0 +1,4 @@
+﻿  main.c
+D:\CLion Project\c-primer-plus\5.4-身高转换\main.c(8,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\CLion Project\c-primer-plus\5.4-身高转换\main.c(14,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  5.4-身高转换.vcxproj -> D:\CLion Project\c-primer-plus\5.4-身高转换\x64\Debug\5.4-身高转换.exe
