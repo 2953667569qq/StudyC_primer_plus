@@ -1,0 +1,5 @@
+﻿  main.c
+D:\CLion Project\c-primer-plus\6.7-倒序打印\main.c(8,10): warning C4477: “scanf_s”: 格式字符串“%99s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\CLion Project\c-primer-plus\6.7-倒序打印\main.c(8,10): message : 此参数用作缓冲区大小
+D:\CLion Project\c-primer-plus\6.7-倒序打印\main.c(9,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  6.7-倒序打印.vcxproj -> D:\CLion Project\c-primer-plus\6.7-倒序打印\x64\Debug\6.7-倒序打印.exe
