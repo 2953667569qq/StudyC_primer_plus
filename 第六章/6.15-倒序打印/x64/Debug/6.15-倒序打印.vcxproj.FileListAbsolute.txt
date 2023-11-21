@@ -1,1 +1,2 @@
 D:\CLion Project\c-primer-plus\6.15-倒序打印\x64\Debug\6.15-倒序打印.exe
+D:\CLion Project\c-primer-plus\第六章\6.15-倒序打印\x64\Debug\6.15-倒序打印.exe

@@ -14,5 +14,6 @@ int main()
 	{
 		printf("%c", a[i]);
 	}
+	system("pause");
 	return 0;
 }
