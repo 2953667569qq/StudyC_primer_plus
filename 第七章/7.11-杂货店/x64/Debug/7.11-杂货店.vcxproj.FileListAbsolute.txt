@@ -1,1 +1,2 @@
 D:\CLion Project\c-primer-plus\7.11-杂货店\x64\Debug\7.11-杂货店.exe
+D:\CLion Project\c-primer-plus\第七章\7.11-杂货店\x64\Debug\7.11-杂货店.exe
